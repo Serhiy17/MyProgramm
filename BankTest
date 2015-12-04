@@ -11,7 +11,22 @@ public class BankTest{
 		myBank.setAcBank(input.nextInt());
 		System.out.println();
 
+		System.out.println("Pleas enter the begining balance: ");
+		myBank.setBalance(input.nextInt());
+		System.out.println();
 
+		System.out.println("Pleas enter the items charged: ");
+		myBank.setItems(input.nextInt());
+		System.out.println();
 
+		System.out.println("Pleas enter the credit: ");
+		myBank.setCredit(input.nextInt());
+		System.out.println();
+
+		System.out.println("Pleas enter the limit: ");
+		myBank.setLimit(input.nextInt());
+		System.out.println();
+
+		myBank.displayBalanse();
 	}
 }
