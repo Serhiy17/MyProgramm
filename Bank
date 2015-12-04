@@ -1,0 +1,66 @@
+public class Bank{
+
+private int acNumber;
+private int balanse;
+private int iteams;
+private int credit;
+private int limit;
+
+public void setAcNumber(int acNumber){
+	this.acNumber = acNumber;
+}
+
+public int getAcNumber(){
+	return acNumber;
+}
+
+public void setBalanse(int balanse){
+	this.balanse = balanse;
+}
+
+public int getBalanse(){
+	return balanse;
+}
+
+public void setIteams(int iteams){
+	this.iteams = iteams;
+}	
+
+public int getIteams(){
+	return iteams;
+}
+
+public void setCredit(int credit){
+	this.credit = credit;
+}	
+
+public int getCredit(){
+	return credit;
+}
+
+public void setLimit(int limit){
+	this.limit = limit;
+}	
+
+public int getLimit(){
+	return limit;
+}
+
+public void displayBalanse(){
+
+	if (balanse <= 0){
+		SYstem.out.print("Balanse is dont exist");
+	}
+	if (credit > limit){
+		SYstem.out.print("Credit limit exceeded");
+		balanse = balanse + iteams;
+		SYstem.out.print("Balanse is ", + balanse);
+	}
+	else{
+		balanse = balanse + iteams-credit;
+		SYstem.out.print("Balanse is ", + balanse);
+	}
+
+}
+
+}
