@@ -1,6 +1,6 @@
 /**
  * Created by Serhiy on 08.12.2015.
- */
+
 public class Test10pr {
     public static void main(String[] args) {
 
@@ -18,4 +18,4 @@ public class Test10pr {
     }
     System.out.println("s = " + s);
     }
-}
+}*/

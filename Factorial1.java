@@ -1,6 +1,6 @@
 /**
  * Created by Serhiy on 07.12.2015.
- */
+
 import java.util.Scanner;
 
 public class Factorial1{
@@ -33,4 +33,4 @@ public class Factorial1{
 
         System.out.print("Res is " + res);
     }
-}
+}*/

@@ -1,6 +1,6 @@
 /**
  * Created by Serhiy on 07.12.2015.
- */
+
 public class Test6prc {
     public static void main(String[] args) {
         for(int i = 0, k = 1; i < 5; i++, k += 2){
@@ -13,4 +13,4 @@ public class Test6prc {
             System.out.println();
         }
     }
-}
+}*/

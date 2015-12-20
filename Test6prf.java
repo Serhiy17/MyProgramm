@@ -1,6 +1,6 @@
 /**
  * Created by Serhiy on 07.12.2015.
- */
+
 public class Test6prf {
     public static void main(String[] args) {
         int n = 1;
@@ -12,3 +12,4 @@ public class Test6prf {
         }
     }
 }
+ */

@@ -1,6 +1,6 @@
 /**
  * Created by Serhiy on 04.12.2015.
- */
+
 public class Mystery3 {
     public static void main(String[] args) {
 
@@ -18,4 +18,4 @@ public class Mystery3 {
             System.out.println();
         }
     }
-}
+}*/

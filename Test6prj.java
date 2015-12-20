@@ -1,6 +1,6 @@
 /**
  * Created by Serhiy on 08.12.2015.
- */
+
 public class Test6prj {
     public static void main(String[] args) {
             for(int i = 0; i < 5; i++)
@@ -11,4 +11,4 @@ public class Test6prj {
                     }
                 }
     }
-}
+}*/

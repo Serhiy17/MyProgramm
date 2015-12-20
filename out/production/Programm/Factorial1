@@ -1,0 +1,33 @@
+import java.util.Scanner;
+
+pablic class Factorial1{
+
+	public static void main(String[] args){
+
+		Scanner input = new Scanner(System.in);
+
+		int x;
+		int factorial = 1;
+		int res = 1;
+
+		System.out.print("Please enter the x: ");
+		x = input.nextInt();
+
+		while (x > 0){
+
+			while (x > 0){
+
+			factorial = factorial*x;
+
+			--x;
+		}
+
+		res = res + (1/factorial)
+
+		--x;
+
+		}
+
+		System.out.print("Res is " + res);
+	}
+}

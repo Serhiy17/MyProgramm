@@ -1,6 +1,6 @@
 /**
  * Created by Serhiy on 06.12.2015.
- */
+
 public class Palind {
 
     private int value;
@@ -24,4 +24,4 @@ public class Palind {
         return result;
     }
 
-}
+}*/

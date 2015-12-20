@@ -1,6 +1,6 @@
 /**
  * Created by Serhiy on 07.12.2015.
- */
+
 import java.util.Scanner;
 
 public class Factorial{
@@ -25,3 +25,4 @@ public class Factorial{
         System.out.print("Factorial is " + factorial);
     }
 }
+ */
