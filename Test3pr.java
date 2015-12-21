@@ -1,6 +1,6 @@
 /**
  * Created by Serhiy on 07.12.2015.
- */
+
 public class Test3pr {
     public static void main(String[] args) {
         boolean a = true;
@@ -20,3 +20,4 @@ public class Test3pr {
         }
     }
 }
+ */

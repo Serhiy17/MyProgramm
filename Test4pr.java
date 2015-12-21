@@ -1,6 +1,6 @@
 /**
  * Created by Serhiy on 07.12.2015.
- */
+
 public class Test4pr {
     public static void main(String[] args) {
 
@@ -16,3 +16,4 @@ public class Test4pr {
 
     }
 }
+ */

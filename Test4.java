@@ -1,6 +1,6 @@
 /**
  * Created by Serhiy on 05.12.2015.
- */
+
 import java.util.Scanner;
 
 public class Test4 {
@@ -64,4 +64,4 @@ public class Test4 {
             }
         }
     }
-}
+}*/

@@ -1,6 +1,6 @@
 /**
  * Created by Serhiy on 04.12.2015.
- */
+
 public class Test2 {
     public static void main(String[] args) {
 
@@ -18,4 +18,4 @@ public class Test2 {
             System.out.println("&&&&&");
 
     }
-}
+}*/

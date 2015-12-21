@@ -1,4 +1,4 @@
-public class Test5.15.1{
+/**public class Test5.15.1{
 	public static void main (String[] args){
 
 		for(i = 10; i>=1; i--){
@@ -8,4 +8,4 @@ public class Test5.15.1{
 			System.out.println("");
 		}
 	}
-}
+}*/

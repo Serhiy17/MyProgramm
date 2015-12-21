@@ -1,6 +1,6 @@
 /**
  * Created by Serhiy on 08.12.2015.
- */
+
 public class Test6pri {
     public static void main(String[] args) {
         int  n = -1;
@@ -11,4 +11,4 @@ public class Test6pri {
             System.out.println();
         }
     }
-}
+}*/
