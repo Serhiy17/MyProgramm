@@ -1,0 +1,21 @@
+import java.util.Scanner;
+public class Numb{
+	public static void maim (String[] args){
+		Scanner input = new Scanner(System.in);
+
+		System.out.print("Please enter the number: ")
+		int number = input.nextInt();
+		System.out.println("");
+
+		System.out.print(squareOfAsterisks(number))
+	}
+
+	public static int squareOfAsterisks(int number){
+		for(int count = 1; count <= number; count++){
+			for(int i = 1;i <= number; i++){
+				System.out.print("*");
+			}
+			System.out.println("");
+		}
+	}
+}
