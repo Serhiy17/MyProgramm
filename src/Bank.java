@@ -1,6 +1,4 @@
-/**
- * Created by Serhiy on 04.12.2015.
- */
+package src;
 public class Bank{
 
     private int acNumber;
