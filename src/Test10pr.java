@@ -1,6 +1,4 @@
-/**
- * Created by Serhiy on 08.12.2015.
- */
+package src;
 public class Test10pr {
     public static void main(String[] args) {
 

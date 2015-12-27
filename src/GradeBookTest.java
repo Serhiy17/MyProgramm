@@ -1,6 +1,4 @@
-/**
- * Created by Serhiy on 09.12.2015.
- */
+package src;
 public class GradeBookTest {
 
     public static void main(String[] args) {

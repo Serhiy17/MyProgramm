@@ -1,6 +1,4 @@
-/**
- * Created by Serhiy on 09.12.2015.
- */
+package src;
 import java.util.Scanner;
 
 public class GradeBook {
