@@ -13,22 +13,28 @@ public class Time2Test {
         System.out.println("t1: all arguments defaulted");
         System.out.printf("  %s\n", t1.toUniversalString());
         System.out.printf("  %s\n", t1.toString());
+        System.out.printf("  %s\n", t1.toSecondString());
 
         System.out.println("t2: hour specified; minute and second defaulted");
         System.out.printf("  %s\n", t2.toUniversalString());
         System.out.printf("  %s\n", t2.toString());
+        System.out.printf("  %s\n", t2.toSecondString());
+
 
         System.out.println("t3: hour and minute specified; second defaulted");
         System.out.printf("  %s\n", t3.toUniversalString());
         System.out.printf("  %s\n", t3.toString());
+        System.out.printf("  %s\n", t3.toSecondString());
 
         System.out.println("t4: hour, minute and second specified");
         System.out.printf("  %s\n", t4.toUniversalString());
         System.out.printf("  %s\n", t4.toString());
+        System.out.printf("  %s\n", t4.toSecondString());
 
         System.out.println("t5: Time2 object t4 specified");
         System.out.printf("  %s\n", t5.toUniversalString());
         System.out.printf("  %s\n", t5.toString());
+        System.out.printf("  %s\n", t5.toSecondString());
 
         try{
             Time2 t6 = new Time2(27,74, 99);
